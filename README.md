@@ -1,4 +1,3 @@
-# 👋 Hey there, I'm Thanush Shetty! 💻
 
 ![Header](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&height=200\&section=header\&text=Thanush%20Shetty%20🚀\&fontSize=35\&fontAlignY=40)
 
