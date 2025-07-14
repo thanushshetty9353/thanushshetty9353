@@ -24,7 +24,7 @@
 📫 **Reach me at:**
 📩 [thanushshetty7@gmail.com](mailto:thanushshetty7@gmail.com)
 📱 +91 87627 22706 (WhatsApp)
-🔗 [Portfolio](https://myportfolio-egwz.onrender.com) | [LinkedIn](https://www.linkedin.com/in/thanush-shetty-a49801298) | [X](https://x.com/ThanushShetty18) | [Instagram](https://www.instagram.com/thanush_shetty_18_?igsh=MW9lYW5veWR2c3poMQ%3D%3D)
+🔗 [Portfolio](https://thanushshetty.onrender.com/) | [LinkedIn](https://www.linkedin.com/in/thanush-shetty-a49801298) | [X](https://x.com/ThanushShetty18) | [Instagram](https://www.instagram.com/thanush_shetty_18_?igsh=MW9lYW5veWR2c3poMQ%3D%3D)
 
 ---
 
@@ -109,7 +109,7 @@
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/thanush-shetty-a49801298)
 * ✉️ [Gmail](mailto:thanushshetty7@gmail.com)
-* 🌐 [Portfolio](https://myportfolio-egwz.onrender.com)
+* 🌐 [Portfolio](https://thanushshetty.onrender.com/)
 * 🔗 [X (Twitter)](https://x.com/ThanushShetty18)
 * 📸 [Instagram](https://www.instagram.com/thanush_shetty_18_?igsh=MW9lYW5veWR2c3poMQ%3D%3D)
 * 📱 +91 87627 22706 (WhatsApp)
