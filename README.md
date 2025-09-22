@@ -81,6 +81,7 @@
 * 🎙️ **Jarvis Voice Assistant** – Desktop Python voice command system  
 * 📃 **iCoder Blog** – Bootstrap-powered developer blog UI  
 * ✂️ **TextTrim** – Text summarizer using NLP and sleek front-end
+* **PubMed Fetcher** - A command-line tool to fetch PubMed research papers containing at least one non-academic author 
 
 ---
 
