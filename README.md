@@ -120,7 +120,7 @@
 🎓 MySQL – Ethnotech  
 🎓 Data Analytics – Certiport  
 🎓 Artificial Intelligence – Certiport  
-🎓 AI-ML Virtual Internship
+🎓 AI-ML Virtual Internship                                                                                  
 🎓 Machine Learning using Python - IBM
 
 ---
