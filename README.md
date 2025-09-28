@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Thanush%20Shetty%20🚀&fontSize=35&fontAlignY=40)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+I'm+Thanush+Shetty+%F0%9F%91%8B;AI/ML+Engineer;Full+Stack+Developer;Graphic+Designer;UI/UX+Designer;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+I'm+Thanush+Shetty+%F0%9F%91%8B;AI/ML+Engineer;Full+Stack+Developer;Graphic+Designer;UI+Designer;Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
 <br/>
