@@ -106,10 +106,11 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thanushshetty9353&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanushshetty9353&layout=compact&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=thanushshetty9353&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thanushshetty9353&theme=radical" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thanushshetty9353&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
