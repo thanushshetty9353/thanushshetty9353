@@ -66,7 +66,7 @@
 * Communication, Leadership, Teamwork, Creativity  
 * Time Management, Adaptability, Problem Solving
 
-**🌍 Languages Known:** English | Hindi | Kannada 🌿 | Tulu 🌊
+**Languages Known:** English | Hindi | Kannada 🌿 | Tulu 🌊
 
 ---
 
